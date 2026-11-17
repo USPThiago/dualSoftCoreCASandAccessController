@@ -41,9 +41,9 @@ Architecture Desing.
 system. 
 
 - genius, genius2nd and geniusHarvardArchitecture: Single Core architecture implemented
-with soft-core Intel Nios II. The objective of this project was to familirizare myself
+with soft-core Intel Nios II. The objective of this projects was to familirizare myself
 with Nios II Software Build tools and Platform Designs Environment. genius2nd folder 
-contain the single core base system, used to implement more complex architectures. The folders
+contains the single core base system, used to implement more complex architectures. The folders
 contains too the software description of "genius" game, used to test the system in FPGA. 
 
 - firmware_testbench: External Read System, used to depurates memorys in FPGA. 
